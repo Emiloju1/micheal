@@ -1,0 +1,15 @@
+html {
+    font-size: larger;
+}
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+a{
+    color: antiquewhite;
+} 
+
+a:hover, a:active{
+    color: #eee;
+}
